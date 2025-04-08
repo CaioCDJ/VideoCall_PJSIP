@@ -14,7 +14,7 @@ Just an example of how to make a video call using pjsip pjsua2.
 
 ## Build Instructions 
 
-1. Edit the info env.h file
+1. Edit the env.h file
 
 2. Cmake deps 
 ```bash
